@@ -1,0 +1,7 @@
+body{
+	background-image: url(end.jpg);
+	min-height: 100%;
+	background-repeat: no-repeat;
+  	background-position: center;
+  	background-size: cover;
+}
